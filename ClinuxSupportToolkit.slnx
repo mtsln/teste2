@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinuxSupportToolkit.Cli/ClinuxSupportToolkit.Cli.csproj" />
+    <Project Path="src/ClinuxSupportToolkit.Core/ClinuxSupportToolkit.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ClinuxSupportToolkit.Tests/ClinuxSupportToolkit.Tests.csproj" />
+  </Folder>
+</Solution>
